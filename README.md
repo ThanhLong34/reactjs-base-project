@@ -65,6 +65,12 @@ Go to the project directory
   cd reactjs-base-project
 ```
 
+Open in VSCode
+
+```bash
+  code .
+```
+
 Install dependencies
 
 ```bash
