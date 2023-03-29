@@ -8,7 +8,14 @@
 	text-align: center;
 }
 
-a.active {
-	color: $tertiaryColor;
-	background-color: $backgroundColor;
+nav {
+	a.active {
+		color: $secondaryColor;
+	}
+}
+
+.page-title {
+	color: $primaryColor;
+	font-weight: bold;
+	font-size: 3rem;
 }
