@@ -7,9 +7,18 @@ This is the base project for getting started with React with useful pre-installe
 
 ## 🚀 Pre-installed libraries
 
-- Normalize css
+- normalize.css
+	```bash
+	npm install normalize.css
+	```
 - sass
+	```bash
+	npm i -D sass
+	```
 - classnames
+	```bash
+	npm install classnames
+	```
 - react-router-dom
 - redux
 - react-redux
