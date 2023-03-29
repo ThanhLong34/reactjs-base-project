@@ -9,10 +9,15 @@ import UserList from "@/components/UserList";
 const cx = classNames.bind(styles);
 
 function Home() {
+	// Get user list from store
 	const userList = useSelector((state) => state.user.list);
+	// Dispatch	
 	const dispatch = useDispatch();
 
+	// States
 	const [user, setUser] = useState("");
+
+	// Refs
 	const userInputRef = useRef(null);
 
 	const handleChangeUser = (e) => {
