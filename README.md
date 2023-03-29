@@ -19,6 +19,10 @@ This is the base project for getting started with React with useful pre-installe
 	```bash
 	npm install classnames
 	```
+- prop-types
+	```bash
+	npm i prop-types
+	```
 - react-router-dom
 - redux
 - react-redux
