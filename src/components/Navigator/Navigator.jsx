@@ -1,4 +1,4 @@
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import classNames from "classnames/bind";
 import styles from "./Navigator.module.scss";
 

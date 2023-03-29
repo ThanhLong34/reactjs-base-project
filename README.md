@@ -24,8 +24,17 @@ This is the base project for getting started with React with useful pre-installe
 	npm i prop-types
 	```
 - react-router-dom
+	```bash
+	npm i react-router-dom
+	```
 - redux
+	```bash
+	npm i redux
+	```
 - react-redux
+	```bash
+	npm i react-redux
+	```
 - redux-toolkit
 - axios
 
