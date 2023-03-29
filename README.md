@@ -36,6 +36,9 @@ This is the base project for getting started with React with useful pre-installe
 	npm i react-redux
 	```
 - redux-toolkit
+	```bash
+	npm install @reduxjs/toolkit
+	```
 - axios
 
 ## 🛸 Pre-configured
