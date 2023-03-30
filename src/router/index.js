@@ -1,6 +1,7 @@
 import Home from "@/pages/Home";
 import About from "@/pages/About";
 import Shop from "@/pages/Shop";
+import NotFound from "@/pages/NotFound";
 
 const routes = [
 	{
@@ -14,6 +15,10 @@ const routes = [
 	{
 		path: "/shop",
 		component: Shop,
+	},
+	{
+		path: "/*",
+		component: NotFound,
 	},
 ];
 
