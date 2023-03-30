@@ -20,10 +20,10 @@ function Home() {
 	// Refs
 	const userInputRef = useRef(null);
 
+	// Handles
 	const handleChangeUser = (e) => {
 		setUser(e.target.value);
 	};
-
 	const handleAddUser = () => {
 		const action = addUser(user);
 		dispatch(action);

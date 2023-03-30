@@ -11,7 +11,7 @@ function About() {
 			const data = await userApi.getList();
 			console.log(data);
 		};
-		
+
 		getUserList();
 	}, []);
 
