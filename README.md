@@ -56,31 +56,31 @@ This is the base project for getting started with React with useful pre-installe
 Clone the project
 
 ```bash
-  git clone git@github.com:ThanhLong34/reactjs-base-project.git
+git clone git@github.com:ThanhLong34/reactjs-base-project.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd reactjs-base-project
+cd reactjs-base-project
 ```
 
 Open in VSCode
 
 ```bash
-  code .
+code .
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+npm install
 ```
 
 Start the server
 
 ```bash
-  npm run dev
+npm run dev
 ```
 
 ## 🌈 Colors Reference 
