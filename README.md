@@ -1,7 +1,7 @@
 # 🐧 Project created by Vite 🐧
 This is the base project for getting started with React with useful pre-installed libraries
 
-## 🤖 Authors
+## 🤖 Author
 
 - [@DragonDev0304](https://github.com/ThanhLong34)
 
