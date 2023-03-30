@@ -18,7 +18,7 @@ function About() {
 	return (
 		<div className={cx("about")}>
 			<h1 className="page-title">About page</h1>
-			<p>Open your dev tool in tab console to view user list get from api</p>
+			<p>Open tab console in your dev tool to view user list get from api</p>
 		</div>
 	);
 }
